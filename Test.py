@@ -1,3 +1,4 @@
+print("""
 72726
 jsisj
 
@@ -9,3 +10,4 @@ jjng
 bunbh
 
 787
+""")
